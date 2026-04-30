@@ -2,7 +2,7 @@
 A simple, modern Android contact manager built with Kotlin.
 Browse your contacts in a clean list, view their details,
 and quickly call or text them — all in a lightweight and intuitive interface.
-✨ Features
+
 Feature	Description
 📋 Contact List	Displays contacts in a RecyclerView with circular avatars and clean layout
 👤 Detail Screen	Shows full name, phone number, and profile image of the selected contact
@@ -25,6 +25,7 @@ text
 ├── 📄 activity_main.xml            ← Main screen layout
 ├── 📄 activity_detail_contact.xml  ← Detail screen layout
 └── 📄 item_contact.xml             ← Single contact item layout
+
 🛠 Tech Stack
 Technology	Detail
 Language	Kotlin
