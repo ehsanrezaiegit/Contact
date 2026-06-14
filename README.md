@@ -1,7 +1,7 @@
 📇 Contact App
 A simple, modern Android contact manager built with Kotlin.
 Browse your contacts in a clean list, view their details,
-and quickly call or text them — all in a lightweight and intuitive interface.
+and quickly call or text them 
 
 Feature	Description
 📋 Contact List	Displays contacts in a RecyclerView with circular avatars and clean layout
